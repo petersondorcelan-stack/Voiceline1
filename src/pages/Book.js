@@ -5,11 +5,19 @@ function Book() {
     <section className="book-section">
       <h1>Book Your Session</h1>
       <p>
-        Ready to connect with a professional interpreter? Click the button below to book your session via our Google Form.
+        Ready to connect with a professional interpreter? Please fill out the form below to book your session.
       </p>
-      <a className="book-btn" href="https://forms.gle/4CXA9LTY6nAPhxjE8" target="_blank" rel="noopener noreferrer">
-        Book Now
-      </a>
+      <iframe
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdPZwD5YpwS1TJh2cJDW6i_OUtXXWBqcNSOJq61BBYMSoTy3A/viewform?embedded=true"
+        width="640"
+        height="783"
+        frameBorder="0"
+        marginHeight="0"
+        marginWidth="0"
+        title="Booking Form"
+      >
+        Loading…
+      </iframe>
     </section>
   );
 }

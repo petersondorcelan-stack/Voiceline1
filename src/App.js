@@ -3,6 +3,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Book from './pages/Book';
+import ContactForm from "./components/ContactForm";
 import Footer from './components/Footer';
 import './App.css';
 
