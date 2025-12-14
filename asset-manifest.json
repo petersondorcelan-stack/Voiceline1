@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/petersondorcelan-stack/VoiceLine/static/css/main.0f665092.css",
-    "main.js": "/petersondorcelan-stack/VoiceLine/static/js/main.02b06d00.js",
-    "index.html": "/petersondorcelan-stack/VoiceLine/index.html",
-    "main.0f665092.css.map": "/petersondorcelan-stack/VoiceLine/static/css/main.0f665092.css.map",
-    "main.02b06d00.js.map": "/petersondorcelan-stack/VoiceLine/static/js/main.02b06d00.js.map"
+    "main.css": "/Voiceline1/static/css/main.0f665092.css",
+    "main.js": "/Voiceline1/static/js/main.02b06d00.js",
+    "index.html": "/Voiceline1/index.html",
+    "main.0f665092.css.map": "/Voiceline1/static/css/main.0f665092.css.map",
+    "main.02b06d00.js.map": "/Voiceline1/static/js/main.02b06d00.js.map"
   },
   "entrypoints": [
     "static/css/main.0f665092.css",
